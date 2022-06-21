@@ -1,0 +1,28 @@
+# Dockerignore file configuration
+
+## Docker files
+
+Dockerfile
+.dockerignore
+
+## Git files
+
+.gitignore
+
+## Documentation files
+
+README.md
+
+## Directories
+
+node_modules
+
+## Node files
+
+package.lock.json
+yarn.lock.json
+
+## Build directories
+
+dist
+build
